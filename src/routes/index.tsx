@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { MessageCircle, PawPrint, Scissors, Stethoscope, ShoppingBag, Truck } from "lucide-react";
+import { Clock3, Instagram, MapPin, MessageCircle, PawPrint, Phone, Scissors, Stethoscope, ShoppingBag, Truck } from "lucide-react";
 
 export const Route = createFileRoute("/")({ component: Home });
 
